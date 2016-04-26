@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/default.frag</file>
+        <file>shaders/default.vert</file>
+        <file>shaders/clouds.frag</file>
+        <file>images/background.png</file>
+        <file>shaders/water.frag</file>
+        <file>sounds/explosion.wav</file>
+        <file>shaders/fireworks.frag</file>
+        <file>sounds/fizz.wav</file>
+        <file>images/explosion.png</file>
+        <file>images/circleParticle.png</file>
+        <file>images/starParticle.png</file>
+    </qresource>
+</RCC>
